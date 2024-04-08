@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald:wght@300;400&family=Roboto:ital,wght@0,400;1,900&family=Source+Sans+3&family=Spline+Sans:wght@500&family=Ubuntu:ital@1&display=swap');
+
+body { 
+    margin: 0;
+    padding: 0;
+    background-color: rgb(1, 17, 16, 0.8)
+}
+
+h1 {
+    top: 5%;
+    position: absolute;
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans 3', sans-serif;
+font-family: 'Spline Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+color: white;
+right: 5%;
+animation: blink infinite 1.5s linear
+}
+
+
+
+
